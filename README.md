@@ -23,7 +23,7 @@ You need to install [Node.js](https://nodejs.org/en/download/) first, then insta
 npm install -g mobile-app-cleaner
 ```
 
-## How to use
+## How to use
 
 You can start cleaning process for iOS and Android projects with this one line command below.
 
