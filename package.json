@@ -1,0 +1,33 @@
+{
+  "name": "mobile-app-cleaner",
+  "version": "0.0.1",
+  "description": "You can use this CLI Tool to clean your iOS and Android projects and keep them updated.",
+  "main": "cli.js",
+  "bin": {
+    "mobile-app-cleaner": "cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/automizer/mobile-app-cleaner.git"
+  },
+  "keywords": [
+    "mobile",
+    "app",
+    "cleaner",
+    "cli",
+    "ios",
+    "android",
+    "react-native",
+    "flutter",
+    "ionic"
+  ],
+  "author": "Sercan Eraslan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/automizer/mobile-app-cleaner/issues"
+  },
+  "homepage": "https://github.com/automizer/mobile-app-cleaner#readme",
+  "dependencies": {
+    "ora": "5.4.0"
+  }
+}
