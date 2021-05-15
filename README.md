@@ -1,6 +1,6 @@
 # Mobile App Cleaner
 
-![Mobile App Cleaner Demo](img/demo.gif)
+![Mobile App Cleaner Demo](img/cleaner.gif)
 
 You can use this CLI Tool to clean your iOS and Android projects and keep them updated. This tool automatizes these items below;
 
